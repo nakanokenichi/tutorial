@@ -1,3 +1,4 @@
 sample1
 add 変更をインデックスに登録する
 dd tutorial
+add tutorial2
